@@ -1,0 +1,28 @@
+{
+  "name": "large-json-js",
+  "version": "0.1.0",
+  "description": "load and save large json in nodejs",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/march1993/large-json-js.git"
+  },
+  "keywords": [
+    "js",
+    "json",
+    "large",
+    "javascript",
+    "read",
+    "write",
+    "load",
+    "save"
+  ],
+  "author": "march1993",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/march1993/large-json-js/issues"
+  },
+  "homepage": "https://github.com/march1993/large-json-js#readme"
+}
