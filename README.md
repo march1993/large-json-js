@@ -1,6 +1,7 @@
 # large-json-js
-This two functions are aimed to replace the default `JSON.stringify` and `JSON.parse`. The size of target JSON files are among 100MiB and 400Mib.
+These two functions are aimed to replace the default `JSON.stringify` and `JSON.parse`. The size of target JSON files are among 100MiB and 400Mib.
 
+You have to conduct sufficient tests before using these two functions. They're not written under strict JSON standard.
 
 # read_json
 ```javascript
