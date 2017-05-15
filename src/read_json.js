@@ -7,7 +7,7 @@ const read_json = (filepath, encoding, callback) => {
 	stream.on('data', chunk => {
 		raw.push(chunk);
 	});
-	stream.on('end', ev => {
+	stream.on('end', () => {
 
 		const raw_length = raw.map(i => i.length).reduce((a, b) => a + b, 0);
 
